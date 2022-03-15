@@ -25,7 +25,7 @@ class Sarsa:
 
         ############################
 
-    def learn(self, s, a, r, s_, is_lambda=False):
+    def learn(self, s, a, r, s_):
         ''' update q table '''
         ############################
 

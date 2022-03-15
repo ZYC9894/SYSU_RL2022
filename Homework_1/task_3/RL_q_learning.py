@@ -25,7 +25,7 @@ class QLearning:
 
         ############################
 
-    def learn(self, s, a, r, s_, is_lambda_return=False):
+    def learn(self, s, a, r, s_):
         ''' update q table '''
         ############################
 
