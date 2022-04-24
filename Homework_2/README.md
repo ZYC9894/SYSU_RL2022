@@ -13,9 +13,12 @@ training DQN:
 * `python main.py --train_dqn`
 
 ## How to evaluate performance your algorithm:
-PS:You need to load model which has best performance before testing the algorithm
+PS: You need to load model which has best performance before testing the algorithm
+
 testing policy gradient:
+
 * `python test.py --test_pg`
   
+
 testing DQN:
 * `python test.py --test_dqn`
