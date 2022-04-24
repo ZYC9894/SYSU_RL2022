@@ -66,7 +66,7 @@ zip文件命名格式: RL_20220421\_张三\_homework2；如果需提交不同版
 
 # Supplement
 
-我们给出部分环境( `PongNoFrameskip-v4`、`cartpole`)的曲线图作为参考。
+我们给出部分环境( `PongNoFrameskip-v4`、`cartpole`、`LunarLanderContinuous-v2`)的曲线图作为参考。
 
 
 
@@ -75,4 +75,10 @@ zip文件命名格式: RL_20220421\_张三\_homework2；如果需提交不同版
 
 
 ![figure_1](C:\Users\ZYC\Desktop\cartpole.svg)
+
+![figure_1](C:\Users\ZYC\Desktop\lunar.png)
+
+<center>黄线是过去100个episode的平均奖励值</center>
+
+<center>蓝线是当前episode的奖励值</center>
 
