@@ -1,7 +1,7 @@
 <center><H1>Homework 2</H1><center>
 
 
-## Task 1 Implementing DQN
+## Task 1 Implementing DQN（第二小题选做）
 
 在Atari中实现最基本的DQN算法。Atari环境会返回大小为$(height\times width\times channels)$图片作为智能体的观测。而强化学习的观测一般是采用一维向量的形式，通常只需要利用全连接神经网络，算法就可以收敛。由于Atari环境返回的是图片，因此需要用CNN对图像信息预处理，并将处理完的信息reshape成一维向量的形式作为强化学习神经网络的输入。强化学习算法的评判标准主要有reward收敛值大小、reward收敛速度等。
 
@@ -62,7 +62,7 @@ zip文件命名格式: RL_20220421\_张三\_homework2；如果需提交不同版
 
 相关环境的说明文档：https://www.gymlibrary.ml/
 
-**作业提交截止日期：2022年05月15日** 
+**作业提交截止日期：2022年05月31日** 
 
 
 
@@ -72,13 +72,13 @@ zip文件命名格式: RL_20220421\_张三\_homework2；如果需提交不同版
 
 
 
-![figure_1](C:\Users\ZYC\Desktop\pong.svg)
+![figure_1](\pong.svg)
 
 
 
-![figure_1](C:\Users\ZYC\Desktop\cartpole.svg)
+![figure_1](\cartpole.svg)
 
-![figure_1](C:\Users\ZYC\Desktop\lunar.png)
+![figure_1](\lunar.png)
 
 <center>黄线是过去100个episode的平均奖励值</center>
 
