@@ -72,13 +72,13 @@ zip文件命名格式: RL_20220421\_张三\_homework2；如果需提交不同版
 
 
 
-![figure_1](\pong.svg)
+![figure_1](pong.svg)
 
 
 
-![figure_1](\cartpole.svg)
+![figure_1](cartpole.svg)
 
-![figure_1](\lunar.png)
+![figure_1](lunar.png)
 
 <center>黄线是过去100个episode的平均奖励值</center>
 
